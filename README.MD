@@ -14,9 +14,9 @@ The manuscript "Seven chain adaptive immune receptor repertoire analysis in rheu
 
 ## Important Links
 
-Raw immunosequencing data from the seven receptor chains are available for downloading at the website of the Rheumatology Research Group (www.urr.cat/airr_ra).
+Raw immunosequencing data from the seven receptor chains are available for downloading at the website of the Rheumatology Research Group (www.urr.cat/AIRR-RA).
 
-Summary statistics for the main AIRR measures are available for downloading at the website of the Rheumatology Research Group (www.urr.cat/airr_ra).
+Summary statistics for the main AIRR measures are available for downloading at the website of the Rheumatology Research Group (www.urr.cat/AIRR-RA).
 
 ## Files and folders
 
@@ -82,4 +82,3 @@ The following packages were used:
 ## Contact
 
 Please do not hesitate to contact us if you require further information: adria.aterido@vhir.org & toni.julia@vhir.org
-
